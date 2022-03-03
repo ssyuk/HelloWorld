@@ -1,0 +1,6 @@
+WITTY v4
+
+FUN start
+PUT 0 "Hello, World!"
+EXC print
+END start
