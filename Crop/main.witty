@@ -1,0 +1,10 @@
+WITTY v4 // Code compiled and translated for witty v4
+// Code compiled using crop compiler 1.0-beta1_004.
+// Code translated using crop translator 1.0-beta1_004.
+
+// Code compiled and translated on Windows 64-bit
+
+FUN start
+PUT 0 "Hello, World!"
+EXC print
+END start
