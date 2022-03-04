@@ -1,1 +1,3 @@
-printfn "Hello, world!"
+[<EntryPoint>]
+let main argv =
+  println "Hello, world!"
